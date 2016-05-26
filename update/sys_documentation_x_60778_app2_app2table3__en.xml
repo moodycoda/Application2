@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="App2Table3" language="en" table="x_60778_app2_app2table3">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>App2Table3</label>
+            <language>en</language>
+            <name>x_60778_app2_app2table3</name>
+            <plural>App2Table3s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>michael</sys_created_by>
+            <sys_created_on>2016-05-26 23:35:38</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>4c332c0fdb23120098aef00fbf96193f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>App2Table3</sys_name>
+            <sys_package display_value="Application2" source="x_60778_app2">dc4fd04b0f23520071ff09bce1050e46</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Application2">dc4fd04b0f23520071ff09bce1050e46</sys_scope>
+            <sys_update_name>sys_documentation_x_60778_app2_app2table3__en</sys_update_name>
+            <sys_updated_by>michael</sys_updated_by>
+            <sys_updated_on>2016-05-26 23:35:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

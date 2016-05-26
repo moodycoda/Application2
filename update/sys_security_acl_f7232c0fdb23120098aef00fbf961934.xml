@@ -5,24 +5,24 @@
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
         <condition/>
-        <description>Default access control on x_60778_app2_app2table1</description>
-        <name>x_60778_app2_app2table1</name>
-        <operation display_value="read">read</operation>
+        <description>Default access control on x_60778_app2_app2table3</description>
+        <name>x_60778_app2_app2table3</name>
+        <operation display_value="create">create</operation>
         <script/>
         <sys_class_name>sys_security_acl</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-05-26 23:20:03</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>1f9f144b0f23520071ff09bce1050eba</sys_id>
+        <sys_created_by>michael</sys_created_by>
+        <sys_created_on>2016-05-26 23:35:38</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>f7232c0fdb23120098aef00fbf961934</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_60778_app2_app2table1</sys_name>
+        <sys_name>x_60778_app2_app2table3</sys_name>
         <sys_package display_value="Application2" source="x_60778_app2">dc4fd04b0f23520071ff09bce1050e46</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Application2">dc4fd04b0f23520071ff09bce1050e46</sys_scope>
-        <sys_update_name>sys_security_acl_1f9f144b0f23520071ff09bce1050eba</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-05-26 23:20:03</sys_updated_on>
+        <sys_update_name>sys_security_acl_f7232c0fdb23120098aef00fbf961934</sys_update_name>
+        <sys_updated_by>michael</sys_updated_by>
+        <sys_updated_on>2016-05-26 23:35:38</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>

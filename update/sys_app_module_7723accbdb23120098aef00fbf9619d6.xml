@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="App2Table1">1f9f144b0f23520071ff09bce1050eb6</application>
+        <application display_value="App2Table3">3b23accbdb23120098aef00fbf9619d5</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -12,35 +12,35 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>App2Table1s</mobile_title>
+        <mobile_title>App2Table3s</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_60778_app2_app2table1</name>
+        <name>x_60778_app2_app2table3</name>
         <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_60778_app2_app2table1_user</roles>
+        <roles>x_60778_app2_app2table3_user</roles>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-05-26 23:20:02</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_created_by>michael</sys_created_by>
+        <sys_created_on>2016-05-26 23:35:38</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>d79f144b0f23520071ff09bce1050eb7</sys_id>
+        <sys_id>7723accbdb23120098aef00fbf9619d6</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>App2Table1s</sys_name>
+        <sys_name>App2Table3s</sys_name>
         <sys_overrides/>
         <sys_package display_value="Application2" source="x_60778_app2">dc4fd04b0f23520071ff09bce1050e46</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Application2">dc4fd04b0f23520071ff09bce1050e46</sys_scope>
-        <sys_update_name>sys_app_module_d79f144b0f23520071ff09bce1050eb7</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-05-26 23:20:02</sys_updated_on>
+        <sys_update_name>sys_app_module_7723accbdb23120098aef00fbf9619d6</sys_update_name>
+        <sys_updated_by>michael</sys_updated_by>
+        <sys_updated_on>2016-05-26 23:35:38</sys_updated_on>
         <timeline_page/>
-        <title>App2Table1s</title>
+        <title>App2Table3s</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
