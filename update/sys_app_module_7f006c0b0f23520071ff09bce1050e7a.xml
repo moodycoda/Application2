@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="App2Table2">b3006c0b0f23520071ff09bce1050e7a</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>App2Table2s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_60778_app2_app2table2</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_60778_app2_app2table2_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-05-26 23:21:59</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7f006c0b0f23520071ff09bce1050e7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>App2Table2s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Application2" source="x_60778_app2">dc4fd04b0f23520071ff09bce1050e46</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Application2">dc4fd04b0f23520071ff09bce1050e46</sys_scope>
+        <sys_update_name>sys_app_module_7f006c0b0f23520071ff09bce1050e7a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-05-26 23:21:59</sys_updated_on>
+        <timeline_page/>
+        <title>App2Table2s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
